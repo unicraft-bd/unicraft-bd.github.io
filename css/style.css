@@ -73,7 +73,7 @@ a:hover{
 /*--main--*/
 /*--header start here--*/
 body {
-    background: url(../images/background.jpg) no-repeat center;
+    background: url(../images/background.jpg) repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
